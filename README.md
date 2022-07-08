@@ -1,2 +1,2 @@
 # mfcTest
-just for test MFC ang github connect status
+just for test MFC ang github connection status
